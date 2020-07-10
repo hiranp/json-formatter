@@ -16,7 +16,7 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-header-license": "^1.0.9",
-    "gulp-sourcemaps": "^2.6.0",
+    "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^2.1.2",
     "gulp-zip": "^4.0.0",
     "json-tokenizer": "^1.0.1",
