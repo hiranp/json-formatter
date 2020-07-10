@@ -26,7 +26,7 @@
     "text-loader": "^0.0.1",
     "to-string-loader": "^1.1.5",
     "vinyl-named": "^1.1.0",
-    "webpack": "^2.4.1",
+    "webpack": "^2.7.0",
     "webpack-stream": "^3.2.0"
   },
   "devDependencies": {
